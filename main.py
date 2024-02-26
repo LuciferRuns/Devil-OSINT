@@ -47,7 +47,7 @@ def toggle_fullscreen():
     root.attributes("-fullscreen", not root.attributes("-fullscreen"))
 
 def open_website_1():
-    webbrowser.open("https://epieos.com/)
+    webbrowser.open("https://epieos.com/")
 
 def open_website_2():
     webbrowser.open("https://www.numlookup.com/")
